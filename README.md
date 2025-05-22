@@ -13,7 +13,10 @@ Bu proje, Python kullanılarak geliştirilen ve bulanık mantık tabanlı bir se
 ## Gerekli Kütüphaneler
 
 ```
-pip install -r requirements.txt
+numpy
+scikit-fuzzy
+matplotlib
+
 ```
 
 ## Kullanım
